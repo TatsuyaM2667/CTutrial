@@ -7,9 +7,6 @@
 
 int main(void)
 {
-    printf("守\n");
-    printf("破\n");
-    printf("難\n");
-
+    printf("Hello, World!");
     return 0;
 }
