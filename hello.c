@@ -3,11 +3,13 @@
  * 実行
  * ./hello
  */
-
 #include <stdio.h>
 
 int main(void)
 {
-    printf("15と37の和は%dです。\n", 15 + 37);
+    printf("守\n");
+    printf("破\n");
+    printf("難\n");
+
     return 0;
 }
